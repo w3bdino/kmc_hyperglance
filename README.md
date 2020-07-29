@@ -27,42 +27,23 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Final Questions
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### How long did you spend on this assessment ?
+Answer: 12 hrs
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### What else would you add to your solution if you had more time - 
+Answer: Pagination, Edit Contact, Unit testing (jest), improve UI / UX designs
 
-## Learn More
+### List a few of your preferred JS/React frameworks
+Answer: Bootstrap (for small - medium projects), Material UI / TailwindCSS (for enterprise projects)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### When a React component needs to make an asynchronous call (such as to an API) what is your preferred approach to achieve this?
+Answer: Promise, Async/await 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Have you had any experience with frontend E2E testing frameworks like cypress.io? - none
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### What do you think is the most interesting trend in React development or frontend development in general.
+Answer: SSR / NextJS, GraphQL, Hooks, Styled-components
