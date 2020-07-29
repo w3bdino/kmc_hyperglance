@@ -1,12 +1,12 @@
 ## 1. Implement an Algorithm
   
-function countLessThan(numbers, threshold){
-  const getLessThan = numbers.filter((number) => number < threshold);
-  return getLessThan.length;
+function countLessThan(numbers, threshold){<br />
+  const getLessThan = numbers.filter((number) => number < threshold);<br />
+  return getLessThan.length;<br />
 }
-
-console.log(countLessThan([1, 3, 3, 4, 8], 5));
-console.log(countLessThan([7, 8, 9, 9, 10], 9));
+<br /><br />
+console.log(countLessThan([1, 3, 3, 4, 8], 5));<br />
+console.log(countLessThan([7, 8, 9, 9, 10], 9));<br />
 
 ## 2. Implement an Algorithm
 
