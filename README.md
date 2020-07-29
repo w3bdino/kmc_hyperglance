@@ -1,3 +1,15 @@
+## 1. Implement an Algorithm
+  
+function countLessThan(numbers, threshold){
+  const getLessThan = numbers.filter((number) => number < threshold);
+  return getLessThan.length;
+}
+
+console.log(countLessThan([1, 3, 3, 4, 8], 5));
+console.log(countLessThan([7, 8, 9, 9, 10], 9));
+
+## 2. Implement an Algorithm
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -29,7 +41,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 
-## Final Questions
+## 3. Final Questions
 
 ### How long did you spend on this assessment ?
 Answer: 12 hrs

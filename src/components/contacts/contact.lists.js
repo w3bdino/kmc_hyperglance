@@ -28,6 +28,13 @@ const ContactLists = ({
     contact.fullname.toLowerCase().includes(filterkeyword.toLowerCase())
   );
 
+  function countLessThan(numbers, threshold){
+    const getLessThan = numbers.filter((number) => number < threshold);
+    return getLessThan.length;
+  }
+
+  console.log(countLessThan([1, 3, 3, 4, 8], 5));
+  console.log(countLessThan([7, 8, 9, 9, 10], 9));
   return (
     <Container className="contactlists">
       <ListGroup>
